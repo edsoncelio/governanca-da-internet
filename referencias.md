@@ -11,3 +11,5 @@
 * Rede de Pesquisa em Governança da Internet
 * [ICANN Learn](https://learn.icann.org/)
 * [Youth Observatory](http://obdjuv.org/)
+
+### Listas de email:
