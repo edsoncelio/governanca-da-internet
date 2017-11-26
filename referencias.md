@@ -3,9 +3,9 @@
 
 
 ## Eventos (todos possuem programas de bolsas):
-* [Internet Governance Forum](https://www.intgovforum.org/) __inglês__
-* [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) __português__
-* [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) __inglês__
+* [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : **inglês**
+* [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : **português**
+* [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) - idioma: **inglês**
 
 ## Cursos e/ou grupos de pesquisa:
 * Rede de Pesquisa em Governança da Internet
