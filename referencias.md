@@ -10,7 +10,7 @@
 * [IETF](https://www.ietf.org/newcomers.html) - idioma: *inglês*
 
 ### Cursos e/ou grupos de pesquisa:
-* Rede de Pesquisa em Governança da Internet
+* [Rede de Pesquisa em Governança da Internet](http://www.redegovernanca.net.br/)
 * [ICANN Learn](https://learn.icann.org/)
 * [Youth Observatory](http://obdjuv.org/)
 
