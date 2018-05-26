@@ -30,7 +30,7 @@
 #### Eventos para capacitação técnica promovidas/apoiadas pelo CGI.Br:
 1. [Semana de Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
 2. [Curso Básico de IPv6 EAD - IPv6.br](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about)
-3. [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
+3. [Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
 4. [Conferência Web.br](http://conferenciaweb.w3c.br/)
 5. [GTER | GTS](http://gtergts.nic.br/)
 6. [IX(PTT) Fórum ](http://forum.ix.br/)
