@@ -27,7 +27,7 @@
 1. [Uma introdução a Governança da Internet](http://cgi.br/publicacao/uma-introducao-a-governanca-da-internet/) - idioma: *português*
 
 
-#### Eventos para capacitação técnica promovidas/apoiadas pelo CGI.Br:
+#### Eventos para capacitação técnica promovidas/apoiadas pelo CGI.Br no Brasil:
 1. [Semana de Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
 2. [Curso Básico de IPv6 EAD - IPv6.br](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about)
 3. [Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
