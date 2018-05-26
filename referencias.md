@@ -2,18 +2,18 @@
 
 ### Eventos (todos possuem programas de bolsas com seus pré-requisitos específicos):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*
-	.. Quando acontece? **anualmente**
+.. Quando acontece? **anualmente**
   
 2. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
-	.. Quando acontece? **anualmente**
+.. Quando acontece? **anualmente**
 
 3. [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
 
 4. [LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português*
-	.. Quando acontece? **semestralmente**
+.. Quando acontece? **semestralmente**
 
 5. [IETF](https://www.ietf.org/newcomers.html) - idioma: *inglês*
-	.. Quando acontece? **anualmente**
+.. Quando acontece? **anualmente**
 
 ### Cursos e/ou grupos de pesquisa:
 * [Rede de Pesquisa em Governança da Internet](http://www.redegovernanca.net.br/)
