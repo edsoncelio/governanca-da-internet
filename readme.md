@@ -8,13 +8,13 @@
 5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
 
 
-#### Eventos - Nacional (*possui programa de bolsas para participação*)
+#### Eventos - Nacional (*possui programas de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
 
 #### Cursos:
 1. [ICANN Learn](https://learn.icann.org/) - *Cursos Recomendados*: 
-* 200.1 Visual Guide to the History of the Internet - idioma: *inglês*
-* 501.1 Digital Trade and Global Internet Governance - idioma: *inglês*
+ * 200.1 Visual Guide to the History of the Internet - idioma: *inglês*
+ * 501.1 Digital Trade and Global Internet Governance - idioma: *inglês*
 2. [Escola de Governança da Internet](https://egi.nic.br/) - idioma: *português*
 
 #### Organizações e/ou grupos de pesquisa:
