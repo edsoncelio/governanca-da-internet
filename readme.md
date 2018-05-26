@@ -35,7 +35,7 @@
 5. [GTER | GTS](http://gtergts.nic.br/)
 6. [IX(PTT) Fórum ](http://forum.ix.br/)
 
-
+**Possui alguma sugestão? só abrir uma issue ou mandar um pull request, ou ainda, entrar em contato com @tuxpilgrim, no telegram.**
 
 
 
