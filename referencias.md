@@ -23,7 +23,7 @@
 * [Semana da Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
 * [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
 * [Curso Básico de IPv6 EAD - IPv6.br](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about)
-* [Conferência Web.br][http://conferenciaweb.w3c.br/]
+* [Conferência Web.br](http://conferenciaweb.w3c.br/)
 
 
 
