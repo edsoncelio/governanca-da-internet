@@ -1,35 +1,39 @@
-## Governança da Internet 
+##Governança da Internet 
+#### Lista de links com informações, cursos e eventos relacionados a Governança da Internet.
 
-### Eventos (todos possuem programas de bolsas com seus pré-requisitos específicos):
-1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*
-* Quando acontece? **anualmente**
-  
-2. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
-* Quando acontece? **anualmente**
-
+### Eventos - Internacional (*possuem programas de bolsas*):
+1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
 3. [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
-
 4. [LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português*
-* Quando acontece? **semestralmente**
-
 5. [IETF](https://www.ietf.org/newcomers.html) - idioma: *inglês*
-*  Quando acontece? **anualmente**
 
-### Cursos e/ou grupos de pesquisa:
+
+### Eventos - Nacional (*possuem programas de bolsas*)
+1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
+
+### Cursos:
+1. [ICANN Learn](https://learn.icann.org/) - Cursos Recomendados: 
+* 200.1 Visual Guide to the History of the Internet - idioma: *inglês*
+* 501.1 Digital Trade and Global Internet Governance - idioma: *inglês*
+2. [Escola de Governança da Internet](https://egi.nic.br/)
+
+### Organizações e/ou grupos de pesquisa:
 * [Rede de Pesquisa em Governança da Internet](http://www.redegovernanca.net.br/)
-* [ICANN Learn](https://learn.icann.org/)
-* [Youth Observatory](http://obdjuv.org/)
 * [Internet Society](https://www.internetsociety.org/)
 * [ICANNWiki](https://pt.icannwiki.org/)
+* [Youth Observatory](http://obdjuv.org/)
+
+###Livros: 
+1. [Uma introdução a Governança da Internet](http://cgi.br/publicacao/uma-introducao-a-governanca-da-internet/)
 
 
-## Projetos e/ou eventos para capacitação técnica promovidos pelo CGI.Br:
+### Eventos para capacitação técnica promovidos pelo CGI.Br:
+1. [Semana da Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
+2. [Curso Básico de IPv6 EAD - IPv6.br](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about)
+3. [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
+4. [Conferência Web.br](http://conferenciaweb.w3c.br/)
 
-### Eventos
-* [Semana da Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
-* [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
-* [Curso Básico de IPv6 EAD - IPv6.br](http://saladeaula.nic.br/courses/course-v1:NIC.br+IPV6-001+T001/about)
-* [Conferência Web.br](http://conferenciaweb.w3c.br/)
+
 
 
 
