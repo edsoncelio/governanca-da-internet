@@ -1,5 +1,5 @@
-## Governança da Internet 
-##### Lista de links com informações, cursos e eventos relacionados a Governança e desenvolvimento da Internet.
+## Governança e Desenvolvimento da Internet 
+##### Lista de links com informações, cursos e eventos relacionados a Governança e Desenvolvimento da Internet.
 
 #### Eventos - Internacional (*possuem programas de bolsas*):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
