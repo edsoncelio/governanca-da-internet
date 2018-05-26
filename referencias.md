@@ -14,4 +14,13 @@
 * [ICANN Learn](https://learn.icann.org/)
 * [Youth Observatory](http://obdjuv.org/)
 
-### Listas de email:
+## Projetos e/ou eventos promovidos pelo CGI.br:
+#### Eventos, cursos e outras ações ténicas promovidas pelo Comitê Gestor de Internet no Brasil.
+
+### Eventos
+* [Semana da Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
+* [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
+
+
+
+
