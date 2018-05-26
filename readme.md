@@ -1,5 +1,5 @@
 ## Governança e Desenvolvimento da Internet 
-##### Repositório com informações, cursos e link para eventos relacionados a Governança e Desenvolvimento da Internet.
+##### Repositório com informações, cursos e links para eventos relacionados a Governança e Desenvolvimento da Internet.
 
 #### Eventos - Internacional (*possuem programas de bolsas*):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
