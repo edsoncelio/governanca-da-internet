@@ -20,6 +20,7 @@
 * [ICANN Learn](https://learn.icann.org/)
 * [Youth Observatory](http://obdjuv.org/)
 * [Internet Society](https://www.internetsociety.org/)
+* [ICANNWiki](https://pt.icannwiki.org/)
 
 
 ## Projetos e/ou eventos para capacitação técnica promovidos pelo CGI.Br:
