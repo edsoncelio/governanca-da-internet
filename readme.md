@@ -1,14 +1,14 @@
 ## Governança e Desenvolvimento da Internet 
 ##### Repositório com informações, cursos e links para eventos relacionados a Governança e Desenvolvimento da Internet.
 
-#### Eventos - Internacional (*possuem programas de bolsas*):
+#### Eventos - Internacional (*possui programas de bolsas para participação*):
 1. [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*  
-3. [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
-4. [LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português*
-5. [IETF](https://www.ietf.org/newcomers.html) - idioma: *inglês*
+3. [Programa de Bolsistas ICANN ](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
+4. [Reuniões LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português, inglês, espanhol*
+5. [Reuniões IETF](https://www.ietf.org/about/participate/) - idioma: *inglês*
 
 
-#### Eventos - Nacional (*possuem programas de bolsas*)
+#### Eventos - Nacional (*possui programa de bolsas para participação*)
 1. [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
 
 #### Cursos:
