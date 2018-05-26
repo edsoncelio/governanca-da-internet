@@ -1,13 +1,18 @@
 ## Governança da Internet 
-#### Lista de links relacionados a cursos, eventos, organizações e bolsas em Governança da Internet
-
 
 ### Eventos (todos possuem programas de bolsas com seus pré-requisitos específicos):
 * [Internet Governance Forum](https://www.intgovforum.org/)  - idioma : *inglês*
+..* Quando acontece? **anualmente**
+  
 * [Fórum da Internet no Brasil](http://forumdainternet.cgi.br/index.html) - idioma : *português*
+..* Quando acontece? **anualmente**
 * [ICANN Fellowship Program](https://www.icann.org/fellowshipprogram) - idioma: *inglês*
+
 * [LACNIC](http://www.lacnic.net/991/1/lacnic/programa-de-becas) - idioma: *português*
+..* Quando acontece? **semestralmente**
+
 * [IETF](https://www.ietf.org/newcomers.html) - idioma: *inglês*
+..* Quando acontece? **anualmente**
 
 ### Cursos e/ou grupos de pesquisa:
 * [Rede de Pesquisa em Governança da Internet](http://www.redegovernanca.net.br/)
@@ -16,8 +21,7 @@
 * [Internet Society](https://www.internetsociety.org/)
 
 
-## Projetos e/ou eventos promovidos pelo CGI.br:
-#### Eventos, cursos e outras ações ténicas promovidas pelo Comitê Gestor de Internet no Brasil.
+## Projetos e/ou eventos para capacitação técnica promovidos pelo CGI.Br:
 
 ### Eventos
 * [Semana da Infraestrutura da Internet no Brasil](http://nic.br/semanainfrabr/)
